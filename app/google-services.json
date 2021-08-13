@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286118950563",
+    "firebase_url": "https://dhimanmatrimonial-75657.firebaseio.com",
+    "project_id": "dhimanmatrimonial-75657",
+    "storage_bucket": "dhimanmatrimonial-75657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286118950563:android:32918ab274385608",
+        "android_client_info": {
+          "package_name": "com.deanna.dhimanmatrimonial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286118950563-hp861pshp0johitk7f1gi89jgcmmkgou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deanna.dhimanmatrimonial",
+            "certificate_hash": "58bb3a96599958aeb1419ddcc031ad9411354b2c"
+          }
+        },
+        {
+          "client_id": "286118950563-l10bfa8b5qh61bfd8qvi4i0psph9h04r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9_ZIjE6CwxkMjM8DLDRCBmXwNKb2dePU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286118950563-l10bfa8b5qh61bfd8qvi4i0psph9h04r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

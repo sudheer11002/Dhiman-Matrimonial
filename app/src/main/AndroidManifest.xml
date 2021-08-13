@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.deanna.dhimanmatrimonial">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/matrominal"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/matrominal"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".WebView"></activity>
+        <activity android:name=".ClickDetails" />
+        <activity android:name=".EditDetails" />
+        <activity android:name=".SpleshScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TabsActivity" />
+        <activity android:name=".EntermobileNumber" />
+        <activity android:name=".OTP" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+</manifest>
